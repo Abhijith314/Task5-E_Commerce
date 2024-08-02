@@ -1,0 +1,13 @@
+.price{
+    font-weight: bold;
+    font-size: 20px;
+}
+.rating{
+    font-weight: bold;
+}
+.card-img-top{
+    height: 200px;
+}
+.category{
+    color: grey;
+}
